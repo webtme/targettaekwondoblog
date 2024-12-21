@@ -10,7 +10,7 @@ const beian1 = 'Hello'
 
 
 const config: Config = {
-  title: 'Target ',
+  title: 'Target Taekwondo',
   url: 'https://ragrouplive.us.kg',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
