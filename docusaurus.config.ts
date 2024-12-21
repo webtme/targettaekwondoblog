@@ -281,7 +281,7 @@ const config: Config = {
       const motto = `
            Target
 This Webisite Powered By RAGroup.
-Written by RAGroup, Coding with RAGroup.
+Written by RAGroup, Coding with Kz,RAGroup.
 --------
 Love what you do and do what you love.
 `
@@ -313,7 +313,7 @@ Love what you do and do what you love.
   ],
   i18n: {
     defaultLocale: 'zh-hant',
-    locales: ['zh-hant', 'zh-TW', 'zh-HK', 'zh'],
+    locales: ['zh-TW', 'zh-HK', 'ko'],
   },
   onBrokenLinks: 'warn',
 }
