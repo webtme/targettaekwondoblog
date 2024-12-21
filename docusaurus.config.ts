@@ -96,7 +96,6 @@ const config: Config = {
             { label: '關於我', to: '/about' },
             { label: 'GitHub', href: social.github.href },
             { label: 'Twitter', href: social.x.href },
-            { label: '掘金', href: social.juejin.href },
             { label: 'Discord', href: social.discord.href },
           ],
         },
