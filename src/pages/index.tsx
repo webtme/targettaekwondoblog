@@ -7,6 +7,7 @@ import ProjectSection from '../components/landing/ProjectSection'
 import Particles from '../components/magicui/particles'
 import LogoSection from '../components/landing/logopSections'
 import Component from '../components/landing/logofSection'
+import { cn } from '@site/src/lib/utils'
 
 export default function Home() {
   const {
