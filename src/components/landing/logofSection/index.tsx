@@ -1,4 +1,5 @@
 import { Card, CardContent } from "@site/src/components/magicui/card";
+import { cn } from '@site/src/lib/utils'
 
 const stats = [
   { value: "10K+", label: "Active Users" },
