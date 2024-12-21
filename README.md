@@ -1,5 +1,5 @@
 <h2 align="center">
-取至愧怍的博客
+博客
 </h2>
 <p align="center">
 <a href="https://vercel.com/new/clone?repository-url=https://github.com/kuizuo/blog/tree/main&project-name=blog&repo-name=blog" rel="nofollow"><img src="https://vercel.com/button"></a>
@@ -89,3 +89,6 @@ pnpm build
 ## 📝 许可证
 
 [MIT](./LICENSE)
+
+## Thanks
+```愧怍的博客```
