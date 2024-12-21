@@ -10,7 +10,7 @@ const beian1 = 'Hello'
 
 
 const config: Config = {
-  title: 'RALive',
+  title: 'Target ',
   url: 'https://ragrouplive.us.kg',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
@@ -279,7 +279,7 @@ const config: Config = {
       )
 
       const motto = `
-           Target
+           Target Taekwondo
 This Webisite Powered By RAGroup.
 Written by RAGroup, Coding with Kz,RAGroup.
 --------
