@@ -105,6 +105,10 @@ body {
   display: inline-flex;
 }
 
+.navbar__logo img {
+  height: 160%;
+}
+
 .navbar__link {
   @apply flex items-center;
 }
