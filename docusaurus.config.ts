@@ -128,7 +128,7 @@ const config: Config = {
         <p style="display: inline-flex; align-items: center;"><img style="height:20px;margin-right: 0.5rem;" src="/img/police.png" alt="police" height="20"/><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=${
           beian1.match(/\d+/)?.[0]
         }" >${beian1}</a></p>
-        <p>Copyright © 2020 - ${new Date().getFullYear()} RAGroup, RALive. | Built with Kuizuo.</p>
+        <p>Copyright © 2020 - ${new Date().getFullYear()} TARGET TAEKWONDO. | Built with RAGroup, kz.</p>
         `,
     },
     algolia: {
@@ -247,7 +247,7 @@ const config: Config = {
           type: 'all',
           title: 'RALive',
           description: 'feedId:41215011978385457+userId:41840354283324416',
-          copyright: `Copyright © ${new Date().getFullYear()} RAGroup, RALive Built with .<p><a href="http://beian.miit.gov.cn/" class="footer_lin">${beian}</a></p>`,
+          copyright: `Copyright © ${new Date().getFullYear()} TARGET TAEKWONDO Built with .<p><a href="http://beian.miit.gov.cn/" class="footer_lin">${beian}</a></p>`,
         },
       },
     ],
