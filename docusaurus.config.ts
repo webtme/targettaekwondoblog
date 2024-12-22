@@ -11,20 +11,20 @@ const beian1 = 'Hello'
 
 const config: Config = {
   title: 'Target Taekwondo',
-  url: 'https://ragrouplive.us.kg',
+  url: 'https://targettaekwondo.us.kg',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'RALive',
+  organizationName: 'Target taekwondo',
   projectName: 'blog',
   customFields: {
-    bio: '道阻且长，行则将至',
+    bio: '道阻且長，行則將至',
     description:
-      '是一个由RALive的主頁和博客，主要分享编程开发知识和项目，该网站基于 React 驱动的静态网站生成器 Docusaurus 构建。',
+      'Target taekwondo 是一間。。',
   },
   themeConfig: {
      announcementBar: {
        id: 'announcementBar-3',
-       content: `New Project by RALive🎉(˶˃ ᵕ ˂˶) .ᐟ.ᐟ `,
+       content: `Target taekwondo🎉(˶˃ ᵕ ˂˶) .ᐟ.ᐟ `,
      },
     image: 'img/og.png',
     metadata: [
